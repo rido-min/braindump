@@ -1,0 +1,19 @@
+{
+    "desired" : {
+        "interval" : 1,
+        "pepito" : "hi",
+        "$version" : 2
+    },
+    "reported" : {
+        "interval" : {
+            "ac" : 200,
+            "av" : 1,
+            "value" : 1
+        },
+        "pepito" : {
+            "ac" : 200,
+            "av" : 2,
+            "value" : "hi"
+        }
+    }
+}
